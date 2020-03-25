@@ -1,16 +1,8 @@
-# web_teste
+# web One Page
 
-A new Flutter project.
+Uma one page é um site onde você pode incluir todas as informações do seu negócio com criatividade, em um único espaço. Ou seja, o usuário vai apenas rolar para baixo para conhecer todas as informações do seu negócio e não vai abrir novas páginas no mesmo site.
 
-## Getting Started
+Pode usar como modelo de aprendizado.
 
-This project is a starting point for a Flutter application.
+Quer contrubuir para melhorar o projeto só entrar em contato.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
